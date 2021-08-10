@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: http://download.h2os.com/OnePlus%203T/MP/OnePlus3THydrogen_28_OTA_083_all_2002201900_bf0fc8385b5547c0.zip
-  ROM_NAME: MIUI
+  ROM_NAME: OxygenOS
   TZ: Asia/Shanghai
 
 jobs:
