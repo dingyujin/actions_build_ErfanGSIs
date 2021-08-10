@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://bigota.d.miui.com/20.4.27/miui_MIMIX3_20.4.27_8f7879221b_10.0.zip
+  ROM_URL: http://download.h2os.com/OnePlus%203T/MP/OnePlus3THydrogen_28_OTA_083_all_2002201900_bf0fc8385b5547c0.zip
   ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
